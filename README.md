@@ -1,0 +1,2 @@
+# psychic-adventure
+bitcoin:bc1qn3x3p5l5nglqx7wwhtmg8c2u7swyz
